@@ -12,4 +12,4 @@
   - 实现batch处理逻辑
   - 编写测试用例
 
-- [ ] bug：text2text任务里面，历史对话穿不进去
+- [ ] bug：text2text任务里面，历史对话传不进去  /public/home/lvshuhang/rocky/YuLian/rocky_test/SEED-X/src/inference/main_script_GLM_API.py
